@@ -10,7 +10,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "build": "npx nuxt build && npx @cloudflare/next-on-pages --outdir .output/public,
+    "build": "npx nuxt build && npx @cloudflare/next-on-pages --outdir .output/public",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
